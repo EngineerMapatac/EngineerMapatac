@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 📍 Philippines |  💻 Computer Engineering Student | ⚙️ Ex-Rover Scout & Lean Six Sigma Builder
 
-  Deep into software development and AI—building diagnostic tools, financial models, and optimizing processes. While my roots are in Cisco networking and robotics, writing code to solve real-world inefficiencies feels like a breath of fresh air. 
+Deep into software development and AI—building diagnostic tools, financial models, and optimizing processes. While my roots are in Cisco networking and robotics, writing code to solve real-world inefficiencies feels like a breath of fresh air. 
 
 ### Tech Stack & Tools
 
@@ -27,11 +27,10 @@ Here are some ideas to get you started:
 ---
 
 ### Current Projects
-* 🚀 **[Glide](link_to_repo)** - A workflow diagnostic tool to analyze and resolve operational inefficiencies (FastAPI, React, PostgreSQL).
-* 🧠 **[NeuroBalance-Engine](link_to_repo)** - Simulates and optimizes financial liability reduction strategies (Python, Flask).
-* 🕵️ **[Operation_Invisible](link_to_repo)** - A C++ steganography tool engineered to securely hide data within image files.
-* 🌌 **[Event_Horizon_JS](link_to_repo)** - A dynamic dashboard utilizing NASA APIs (JavaScript, HTML, CSS).
-* 📊 **[resource-allocator-v1](link_to_repo)** - A Python-based loan tracking system featuring bi-monthly payment simulation.
+* 🚀 **[Glide]([link_to_repo](https://github.com/EngineerMapatac/Glide))** - A workflow diagnostic tool to analyze and resolve operational inefficiencies (FastAPI, React, PostgreSQL).
+* 🧠 **[NeuroBalance-Engine]([link_to_repo](https://github.com/EngineerMapatac/NeuroBalance-Engine))** - Simulates and optimizes financial liability reduction strategies (Python, Flask).
+* 🕵️ **[Operation_Invisible]([link_to_repo](https://github.com/EngineerMapatac/Operation_Invisible))** - A C++ steganography tool engineered to securely hide data within image files.
+* 🌌 **[Event_Horizon_JS]([link_to_repo](https://github.com/EngineerMapatac/Event_Horizon_JS.git))** - A dynamic dashboard utilizing NASA APIs (JavaScript, HTML, CSS).
 
 ### Currently Exploring
 * 🤖 Tackling complex mathematical problems in the AIMO Progress Prize Kaggle competition.
@@ -42,8 +41,8 @@ Here are some ideas to get you started:
 ### GitHub Activity 📈
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=dark&hide_border=true" alt="John's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=dark&hide_border=true" alt="John's Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=engineermapatac&show_icons=true&theme=dark&hide_border=true" alt="John's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=engineermapatac&layout=compact&theme=dark&hide_border=true" alt="John's Top Languages" />
 </div>
 
-📫 **Let's Connect:** [LinkedIn]([link_here](https://www.linkedin.com/in/johnmapatac)
+📫 **Let's Connect:** [LinkedIn]([link_here](https://www.linkedin.com/in/johnmapatac))
