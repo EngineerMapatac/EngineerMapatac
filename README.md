@@ -62,7 +62,7 @@ Here are some ideas to get you started:
 
 [![Twitter](https://img.shields.io/badge/-@kipriyanovichh-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/kipriyanovichh)
 [![Mastodon](https://img.shields.io/badge/-@kipriyanovich-6364FF?style=flat-square&logo=mastodon&logoColor=white)](https://mastodon.social/@kipriyanovich)
-[![Bluesky](https://img.shields.io/badge/-kipriyanovich.bsky.social‬-00A8E8?style=flat-square&logo=bluesky&logoColor=white)](https://bsky.app/profile/kipriyanovich.bsky.social))
+[![Bluesky](https://img.shields.io/badge/-kipriyanovich.bsky.social‬-00A8E8?style=flat-square&logo=bluesky&logoColor=white)](https://bsky.app/profile/kipriyanovich.bsky.social)
 [![LinkedIn](https://img.shields.io/badge/-John_Ramil_Mapatac-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/johnmapatac)
 [![GitHub](https://img.shields.io/badge/-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/engineermapatac)
 
