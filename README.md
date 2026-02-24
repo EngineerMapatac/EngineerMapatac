@@ -1,3 +1,5 @@
+![Terminal Header](./img/header.svg?v=5)
+
 <!--
 **EngineerMapatac/EngineerMapatac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -12,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Terminal Header](./img/header.svg?v=5)
+
 
 ## Hi, I'm John 👋
 
