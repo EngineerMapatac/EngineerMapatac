@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+![Terminal Header](./img/header.svg?v=5)
 
 ## Hi, I'm John 👋
 
