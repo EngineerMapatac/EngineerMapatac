@@ -158,7 +158,7 @@
                 <div class="command-line">
                     <span class="arrow">&gt;</span>
                     <span class="spinner"></span>
-                    <span class="command">Kamusta?</span>
+                    <span class="command">whoami</span>
                 </div>
                 <div class="output">
                     <div class="line">
