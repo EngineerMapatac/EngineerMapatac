@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 ### 🚀 Current Projects & Engineering Tools
 
-* 🤖 **[Project A.L.I.S](https://github.com/EngineerMapatac/Project-A.L.I.S.))** - An open-source AI project designed to guide engineers by suggesting efficient technical routes, heavily driven by Lean Six Sigma methodologies.
+* 🤖 **[Project A.L.I.S](https://github.com/EngineerMapatac/Project-A.L.I.S.)** - An open-source AI project designed to guide engineers by suggesting efficient technical routes, heavily driven by Lean Six Sigma methodologies.
 * ⚙️ **[CyberCarve](https://github.com/EngineerMapatac/CyberCarve)** - Documenting the build and software integration of a custom laser engraver, bridging the gap between hardware architecture and code.
 * 🧠 **[NeuroBalance-Engine](https://github.com/EngineerMapatac/NeuroBalance-Engine)** - A financial modeling system simulating and optimizing liability reduction strategies (Python, Flask). Built to handle complex resource allocation logic.
 * 🚀 **[Glide](https://github.com/EngineerMapatac/Glide)** - A workflow diagnostic tool designed to analyze and resolve operational inefficiencies (FastAPI, React, PostgreSQL). 
