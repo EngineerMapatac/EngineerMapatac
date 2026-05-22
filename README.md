@@ -28,13 +28,9 @@ Here are some ideas to get you started:
 ---
 
 ### 🚀 Current Projects & Engineering Tools
-
+* **[Karel-Goes-to-Manila](https://github.com/EngineerMapatac/Karel-goes-to-Manila)** - An extended 2D simulation environment for Stanford's Code in Place. Watch Karel navigate traffic, manage battery resources, and handle urban delivery routing through the streets of Metro Manila.
 * 🛰️ **[Orbital Feed](https://github.com/EngineerMapatac/orbital-feed)** - Automated posting powered by Generative AI under Javascript; niche-focused cross-posting across the digital platforms. (Private Repository — currently building the SaaS architecture for public release).
-* 🤖 **[Project A.L.I.S](https://github.com/EngineerMapatac/Project-A.L.I.S.)** - An open-source AI project designed to guide engineers by suggesting efficient technical routes, heavily driven by Lean Six Sigma methodologies.
-* ⚙️ **[CyberCarve](https://github.com/EngineerMapatac/CyberCarve)** - Documenting the build and software integration of a custom laser engraver, bridging the gap between hardware architecture and code.
 * 🧠 **[NeuroBalance-Engine](https://github.com/EngineerMapatac/NeuroBalance-Engine)** - A financial modeling system simulating and optimizing liability reduction strategies (Python, Flask). Built to handle complex resource allocation logic.
-* 🚀 **[Glide](https://github.com/EngineerMapatac/Glide)** - A workflow diagnostic tool designed to analyze and resolve operational inefficiencies (FastAPI, React, PostgreSQL). 
-* 🕵️ **[Operation_Invisible](https://github.com/EngineerMapatac/Operation_Invisible)** - A C++ steganography tool engineered to securely hide data within image files, demonstrating low-level memory manipulation.
 * 🌌 **[Event_Horizon_JS](https://github.com/EngineerMapatac/Event_Horizon_JS)** - A dynamic data visualization dashboard utilizing NASA APIs (JavaScript, HTML, CSS).
 
 ---
