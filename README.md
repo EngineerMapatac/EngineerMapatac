@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-> I am an aspiring AI/ML Engineer with a deep passion for building intelligent systems and solving complex bottlenecks. As a Computer Engineer, my academic roots are in Cisco networking, hardware architecture, and robotics. However, my true focus is strictly on the software side—writing code that transforms raw data into automated, optimized solutions.
+> Driven by a passion for intelligent systems and complex problem-solving, I am an aspiring AI/ML Engineer with a Computer Engineering background grounded in hardware architecture, robotics, and Cisco networking. My true drive lies on the software side, where I write code that turns raw data into automated, high-performance solutions.
 
-> My background gives me a unique edge: I don't just write code; I engineer processes. As a Team Coordinator and a certified Lean Six Sigma Yellow Belt, I am trained to identify inefficiencies and architect streamlined workflows. I apply this exact mindset to software development, building robust backend architectures, financial optimization engines, and data-centric tools that pave the way for real-world machine learning applications.
+> What sets me apart is that I don't just write code—I engineer processes. Drawing on my experience supporting operations as a Team Leader and my Lean Six Sigma Yellow Belt certification, I pinpoint operational inefficiencies and build streamlined workflows. I channel that exact analytical rigor into software development, creating robust backends, financial optimization engines, and data tools designed to power real-world machine learning applications.
 
 ---
 
@@ -27,11 +27,11 @@ Here are some ideas to get you started:
 
 ---
 
-### 🚀 Current Projects & Engineering Tools
+### Current Projects & Engineering Tools
 * **[Karel-Goes-to-Manila](https://github.com/EngineerMapatac/Karel-goes-to-Manila)** - An extended 2D simulation environment for Stanford's Code in Place. Watch Karel navigate traffic, manage battery resources, and handle urban delivery routing through the streets of Metro Manila.
-* 🛰️ **[Orbital Feed](https://github.com/EngineerMapatac/orbital-feed)** - Automated posting powered by Generative AI under Javascript; niche-focused cross-posting across the digital platforms. (Private Repository — currently building the SaaS architecture for public release).
-* 🧠 **[NeuroBalance-Engine](https://github.com/EngineerMapatac/NeuroBalance-Engine)** - A financial modeling system simulating and optimizing liability reduction strategies (Python, Flask). Built to handle complex resource allocation logic.
-* 🌌 **[Event_Horizon_JS](https://github.com/EngineerMapatac/Event_Horizon_JS)** - A dynamic data visualization dashboard utilizing NASA APIs (JavaScript, HTML, CSS).
+* **[Orbital Feed](https://github.com/EngineerMapatac/orbital-feed)** - Automated posting powered by Generative AI under Javascript; niche-focused cross-posting across the digital platforms. (Private Repository — currently building the SaaS architecture for public release).
+* **[NeuroBalance-Engine](https://github.com/EngineerMapatac/NeuroBalance-Engine)** - A financial modeling system simulating and optimizing liability reduction strategies (Python, Flask). Built to handle complex resource allocation logic.
+* **[Event_Horizon_JS](https://github.com/EngineerMapatac/Event_Horizon_JS)** - A dynamic data visualization dashboard utilizing NASA APIs (JavaScript, HTML, CSS).
 
 ---
 
@@ -51,10 +51,10 @@ Here are some ideas to get you started:
 
 ---
 
-### 🌱 Currently Exploring
+### Currently Exploring
 
-* 🤖 Designing predictive models and tackling advanced mathematical problems in the AIMO Progress Prize Kaggle competition.
-* 📈 Bridging Lean Six Sigma methodologies with data pipeline architecture to prep for future machine learning roles.
+* Designing predictive models and tackling advanced mathematical problems in the AIMO Progress Prize Kaggle competition.
+* Bridging Lean Six Sigma methodologies with data pipeline architecture to prep for future machine learning roles.
 
 --- 
 
@@ -76,10 +76,10 @@ Here are some ideas to get you started:
 <details>
 <summary>⚡ Random Facts About Me</summary>
 
-* 📺 **Sci-Fi & AI:** My fascination with artificial intelligence isn't just academic. I love exploring concepts like consciousness transfer in sci-fi—especially the tech behind characters like A.L.I.E. from *The 100*.
-* 🏕️ **Beyond the Screen:** I have a background in Rover Scouting here in the Philippines, which taught me a lot about leadership and resourcefulness before I ever started managing teams or writing code.
-* 🎨 **Digital Art & Web3:** Alongside my core engineering projects, I have a strong interest in the intersection of code and art, including exploring how NFTs are created and deployed.
-* ⚙️ **Certified Optimizer:** I hold a Lean Six Sigma Yellow Belt. Yes, it is usually for manufacturing or business operations, but I am officially certified to hate inefficient processes—even in my codebase.
-* 💻 **My Setup:** I build, train models, and diagnose workflows entirely from my MacBook.
+* **Sci-Fi & AI:** My fascination with artificial intelligence isn't just academic. I love exploring concepts like consciousness transfer in sci-fi—especially the tech behind characters like A.L.I.E. from *The 100*.
+* **Beyond the Screen:** I have a background in Rover Scouting here in the Philippines, which taught me a lot about leadership and resourcefulness before I ever started managing teams or writing code.
+* **Digital Art & Web3:** Alongside my core engineering projects, I have a strong interest in the intersection of code and art, including exploring how NFTs are created and deployed.
+* **Certified Optimizer:** I hold a Lean Six Sigma Yellow Belt. Yes, it is usually for manufacturing or business operations, but I am officially certified to hate inefficient processes—even in my codebase.
+* **My Setup:** I build, train models, and diagnose workflows entirely from my MacBook.
 
 </details>
