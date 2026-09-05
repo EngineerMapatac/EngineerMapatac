@@ -74,7 +74,7 @@ Here are some ideas to get you started:
 
 ---
 <details>
-<summary>⚡ Random Facts About Me</summary>
+<summary>Random Facts About Me</summary>
 
 * **Sci-Fi & AI:** My fascination with artificial intelligence isn't just academic. I love exploring concepts like consciousness transfer in sci-fi—especially the tech behind characters like A.L.I.E. from *The 100*.
 * **Beyond the Screen:** I have a background in Rover Scouting here in the Philippines, which taught me a lot about leadership and resourcefulness before I ever started managing teams or writing code.
