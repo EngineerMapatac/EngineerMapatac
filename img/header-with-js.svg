@@ -191,7 +191,7 @@
                                             function() {
                                                 setTimeout(function() {
                                                     document.getElementById('outputLine3').style.display = 'flex';
-                                                    document.getElementById('line3').innerHTML = 'Watch: <a href="https://youtube.com/@ArtemXTech" target="_blank" class="link highlight">youtube.com/@ArtemXTech</a>';
+                                                    document.getElementById('line3').innerHTML = Learn: <a href="https://www.kaggle.com/kipriyanovichhh" target="_blank" class="highlight">https://www.kaggle.com/kipriyanovichhh</a>
 
                                                     setTimeout(function() {
                                                         clearInterval(spinnerInterval);
