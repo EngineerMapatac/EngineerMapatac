@@ -39,21 +39,13 @@ Here are some ideas to get you started:
 
 ---
 
-### What I'm currently doing
+## What I'm currently exploring & building
 
-- **Living in the future** - Learning and building tools to make agentic engineering faster for everyone
-- **Building intelligent systems** - Transitioning into AI/ML by tackling complex mathematical models in the AIMO Kaggle competition.
-- **Architecting efficiency** - Merging my Lean Six Sigma background with software development to engineer tools that solve real operational bottlenecks.
-- **Rapid tool development** - Spinning up functional applications—like workflow diagnostics and financial simulators—using Python, FastAPI, and React.
-- **Translating hardware logic to software** - Taking the structured thinking from my Computer Engineering degree and applying it entirely to writing cleaner, faster backend code.
-
----
-
-### Currently Exploring
-
-* Designing predictive models and tackling advanced mathematical problems in the AIMO Progress Prize Kaggle competition.
-* Bridging Lean Six Sigma methodologies with data pipeline architecture to prep for future machine learning roles.
-
+- **Living in the future:** Actively researching and building tools to accelerate agentic engineering. My goal is to make autonomous AI agents more accessible by developing workflows that bridge the gap between complex LLMs and practical, everyday automation.
+- **Building intelligent systems:** Transitioning deeply into AI/ML by tackling complex mathematical models in the AIMO Kaggle competition. I am actively applying advanced statistical concepts from my Stanford Probability for AI program to build more robust and predictable machine learning pipelines.
+- **Architecting efficiency:** Merging my Lean Six Sigma background with software development. I don't just write scripts; I engineer tools designed to systematically eliminate real operational bottlenecks, drastically reduce cycle times, and optimize resource allocation across workflows.
+- **Rapid tool development & deployment:** Spinning up scalable, functional applications—like workflow diagnostics and financial simulators—using Python, FastAPI, and React. I focus on taking ideas from raw prototypes to containerized, production-ready APIs with intuitive user interfaces.
+- **Translating hardware logic to software:** Leveraging the structured, low-level thinking from my Computer Engineering and embedded systems background to write cleaner, faster, and highly efficient backend systems. I apply the same precision required for hardware configuration to optimize software performance in languages like Rust and Python.
 --- 
 
 ### Certifications & Achievements
