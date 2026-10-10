@@ -15,9 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-> Driven by a passion for intelligent systems and complex problem-solving, I am an aspiring AI/ML Engineer with a Computer Engineering background grounded in hardware architecture, robotics, and Cisco networking. My true drive lies on the software side, where I write code that turns raw data into automated, high-performance solutions.
-
-> What sets me apart is that I don't just write code—I engineer processes. Drawing on my experience supporting operations as a Team Leader and my Lean Six Sigma Yellow Belt certification, I pinpoint operational inefficiencies and build streamlined workflows. I channel that exact analytical rigor into software development, creating robust backends, financial optimization engines, and data tools designed to power real-world machine learning applications.
+> The best software doesn't just run; it transforms. I am a Computer Engineer and aspiring AI/ML Engineer driven by a relentless curiosity for complex problem-solving, with a strong foundation in embedded systems and hardware architecture. My edge lies in my dual perspective: drawing on my Lean Six Sigma certification and leadership background, I approach technology not just as a developer, but as a process engineer. I pinpoint operational chaos and architect elegant, automated workflows in its place. From programming intelligent embedded devices to coding robust backends and financial engines, I channel my analytical rigor into creating the foundational data tools that empower the next generation of machine learning applications.
 
 ---
 
@@ -55,6 +53,21 @@ Here are some ideas to get you started:
 
 * Designing predictive models and tackling advanced mathematical problems in the AIMO Progress Prize Kaggle competition.
 * Bridging Lean Six Sigma methodologies with data pipeline architecture to prep for future machine learning roles.
+
+--- 
+
+### Certifications & Achievements
+
+* **Stanford University: Probability for AI** (October 2026)
+    *   Selected from over 20,000 applicants to participate in this specialized AI/ML probability course led by Stanford faculty.
+    
+*   **Stanford University: Code in Place** (June 2026)
+
+    Completed Stanford's rigorous introductory Python programming course.
+
+    Final Project Highlight: Karel-Goes-to-Manila – An extended 2D simulation environment developed in Python, where Karel navigates traffic, manages battery resources, and handles urban delivery routing through the streets of Metro Manila.
+
+* Lean Six Sigma Yellow Belt
 
 --- 
 
