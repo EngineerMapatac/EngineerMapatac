@@ -67,7 +67,7 @@ Here are some ideas to get you started:
 
     * Final Project Highlight: Karel-Goes-to-Manila – An extended 2D simulation environment developed in Python, where Karel navigates traffic, manages battery resources, and handles urban delivery routing through the streets of Metro Manila.
 
-* Lean Six Sigma Yellow Belt
+* **Lean Six Sigma Yellow Belt**
 
 --- 
 
