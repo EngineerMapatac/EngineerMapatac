@@ -60,12 +60,12 @@ Here are some ideas to get you started:
 
 * **Stanford University: Probability for AI** (October 2026)
     *   Selected from over 20,000 applicants to participate in this specialized AI/ML probability course led by Stanford faculty.
-    
+
 *   **Stanford University: Code in Place** (June 2026)
 
-    Completed Stanford's rigorous introductory Python programming course.
+    * Completed Stanford's rigorous introductory Python programming course.
 
-    Final Project Highlight: Karel-Goes-to-Manila – An extended 2D simulation environment developed in Python, where Karel navigates traffic, manages battery resources, and handles urban delivery routing through the streets of Metro Manila.
+    * Final Project Highlight: Karel-Goes-to-Manila – An extended 2D simulation environment developed in Python, where Karel navigates traffic, manages battery resources, and handles urban delivery routing through the streets of Metro Manila.
 
 * Lean Six Sigma Yellow Belt
 
