@@ -42,6 +42,10 @@ Here are some ideas to get you started:
   <img height="160" src="https://gh-profile-stats.zli39uclan.workers.dev/top-langs?username=EngineerMapatac&accent=7d6cff&cell=sharp&hide_border=true"/>
 </p>
 
+<p align="center">
+  <img width="720" src="https://gh-profile-stats.zli39uclan.workers.dev/activity?username=EngineerMapatac&accent=7d6cff&cell=sharp&hide_border=true"/>
+</p>
+
 ---
 
 ## What I'm currently exploring & building
