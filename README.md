@@ -35,8 +35,6 @@ Here are some ideas to get you started:
 
 ### GitHub Activity
 
-![GitHub Contribution Graph](https://ghchart.rshah.org/engineermapatac)
-
 <p align="center">
   <img height="160" src="https://gh-profile-stats.zli39uclan.workers.dev/stats?username=EngineerMapatac&accent=7d6cff&cell=sharp&hide_border=true"/>
   <img height="160" src="https://gh-profile-stats.zli39uclan.workers.dev/top-langs?username=EngineerMapatac&accent=7d6cff&cell=sharp&hide_border=true"/>
