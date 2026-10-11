@@ -36,12 +36,12 @@ Here are some ideas to get you started:
 ### GitHub Activity
 
 <p align="center">
-  <img height="380" src="https://gh-profile-stats.zli39uclan.workers.dev/stats?username=EngineerMapatac&accent=7d6cff&cell=sharp&hide_border=true"/>
+  <img height="450" src="https://gh-profile-stats.zli39uclan.workers.dev/stats?username=EngineerMapatac&accent=7d6cff&cell=sharp&hide_border=true"/>
   <img height="120" src="https://gh-profile-stats.zli39uclan.workers.dev/top-langs?username=EngineerMapatac&accent=7d6cff&cell=sharp&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img width="800" src="https://gh-profile-stats.zli39uclan.workers.dev/activity?username=EngineerMapatac&accent=7d6cff&cell=sharp&hide_border=true"/>
+  <img width="720" src="https://gh-profile-stats.zli39uclan.workers.dev/activity?username=EngineerMapatac&accent=7d6cff&cell=sharp&hide_border=true"/>
 </p>
 
 ---
