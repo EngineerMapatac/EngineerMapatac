@@ -60,7 +60,7 @@ Here are some ideas to get you started:
 * **Stanford University: Probability for AI** (October 2026)
     *   Selected from over 20,000 applicants to participate in this specialized AI/ML probability course led by Stanford faculty.
 
-*   **Stanford University: Code in Place** (June 2026)
+*   **[Stanford University: Code in Place](https://codeinplace.stanford.edu/cip6/certificate/pts0ck)** (June 2026)
 
     * Completed Stanford's rigorous introductory Python programming course.
 
