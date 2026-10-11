@@ -59,7 +59,7 @@ Here are some ideas to get you started:
 
 * **Stanford University: Probability for AI** (October 2026)
     *   Selected from over 20,000 applicants to participate in this specialized AI/ML probability course led by Stanford faculty.
-    *   Portfolio's
+    *   **[Portfolio](https://pai.stanford.edu/pai1/portfolio/aJkZphyhk5UO1y23QSgxJhO6wvE3)**
         * **[Word Detective](https://pai.stanford.edu/pai1/portfolio/aJkZphyhk5UO1y23QSgxJhO6wvE3/ai-text)**
             - An applied probability project analyzing lexical patterns in LLMs. Built conditional probability models to calculate likelihood ratios for words characteristic of machine-generated text versus human writing.
         * **[Inference Time Calculator](https://pai.stanford.edu/pai1/portfolio/aJkZphyhk5UO1y23QSgxJhO6wvE3/inference-time)**
