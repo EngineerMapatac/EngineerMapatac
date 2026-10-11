@@ -1,5 +1,11 @@
 ![Terminal Header](./img/header.svg?v=5)
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/EngineerMapatac/EngineerMapatac/main/assets/header.svg" alt="John Ramil Mapatac — Computer Engineer" width="880"/>
+</p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/EngineerMapatac/EngineerMapatac/main/assets/now.svg" alt="now" width="720"/>
+</p>
 <!--
 **EngineerMapatac/EngineerMapatac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
