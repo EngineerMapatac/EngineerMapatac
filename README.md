@@ -59,12 +59,19 @@ Here are some ideas to get you started:
 
 * **Stanford University: Probability for AI** (October 2026)
     *   Selected from over 20,000 applicants to participate in this specialized AI/ML probability course led by Stanford faculty.
+    *   Portfolio's
+        * **[Word Detective](https://pai.stanford.edu/pai1/portfolio/aJkZphyhk5UO1y23QSgxJhO6wvE3/ai-text)**
+            - An applied probability project analyzing lexical patterns in LLMs. Built conditional probability models to calculate likelihood ratios for words characteristic of machine-generated text versus human writing.
+        * **[Inference Time Calculator](https://pai.stanford.edu/pai1/portfolio/aJkZphyhk5UO1y23QSgxJhO6wvE3/inference-time)**
+            - An interactive probability model demonstrating inference-time compute scaling for LLMs, calculating parallel sample thresholds required to solve complex coding tasks reliably.
+        * **[Medical Test Detective](https://pai.stanford.edu/pai1/portfolio/aJkZphyhk5UO1y23QSgxJhO6wvE3/medical-bayes)**
+            - An interactive Bayesian probability model analyzing diagnostic test accuracy, false alarms, and predictive validity across medical screenings.
 
 *   **[Stanford University: Code in Place](https://codeinplace.stanford.edu/cip6/certificate/pts0ck)** (June 2026)
 
     * Completed Stanford's rigorous introductory Python programming course.
 
-    * Final Project Highlight: Karel-Goes-to-Manila – An extended 2D simulation environment developed in Python, where Karel navigates traffic, manages battery resources, and handles urban delivery routing through the streets of Metro Manila.
+    * Final Project Highlight: **[Karel-Goes-to-Manila](https://github.com/EngineerMapatac/Karel-goes-to-Manila)** – An extended 2D simulation environment developed in Python, where Karel navigates traffic, manages battery resources, and handles urban delivery routing through the streets of Metro Manila.
 
 * **Lean Six Sigma Yellow Belt**
 
