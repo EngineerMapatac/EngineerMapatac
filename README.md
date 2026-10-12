@@ -48,8 +48,6 @@ Here are some ideas to get you started:
 
 <img src="https://raw.githubusercontent.com/EngineerMapatac/EngineerMapatac/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 
-> *"First, solve the problem. Then, write the code."* — John Johnson
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" />
 
 </div>
