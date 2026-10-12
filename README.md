@@ -36,19 +36,29 @@ Here are some ideas to get you started:
 ### GitHub Activity
 
 <div align="center">
-  <img width="600" src="https://gh-profile-stats.zli39uclan.workers.dev/stats?username=EngineerMapatac&accent=7d6cff&cell=sharp&hide_border=true"/>
-</div>
+  <p>
+    <!-- Dark Mode Stats -->
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=EngineerMapatac&show_icons=true&theme=github_dark&hide_border=true" />
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=EngineerMapatac&show_icons=true&theme=default&hide_border=true" />
+      <img height="165em" src="https://github-readme-stats.vercel.app/api?username=EngineerMapatac&show_icons=true&theme=github_dark&hide_border=true" alt="John's GitHub Stats" />
+    </picture>
+    <!-- Dark Mode Top Languages -->
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=EngineerMapatac&layout=compact&theme=github_dark&hide_border=true" />
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=EngineerMapatac&layout=compact&theme=default&hide_border=true" />
+      <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EngineerMapatac&layout=compact&theme=github_dark&hide_border=true" alt="John's Top Languages" />
+    </picture>
+  </p>
 
-<div align="center">
-  <img width="600" src="https://gh-profile-stats.zli39uclan.workers.dev/top-langs?username=EngineerMapatac&accent=7d6cff&cell=sharp&hide_border=true"/>
-</div>
-
-<div align="center">
-  <img width="850" src="https://gh-profile-stats.zli39uclan.workers.dev/activity?username=EngineerMapatac&accent=7d6cff&cell=sharp&hide_border=true"/>
-</div>
-<div align="center">
-<img src="https://raw.githubusercontent.com/EngineerMapatac/EngineerMapatac/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" />
+  <!-- Snake Animation (Dynamic Light/Dark Mode) -->
+  <p>
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/EngineerMapatac/EngineerMapatac/output/github-contribution-grid-snake-dark.svg" />
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/EngineerMapatac/EngineerMapatac/output/github-contribution-grid-snake.svg" />
+      <img width="650px" src="https://raw.githubusercontent.com/EngineerMapatac/EngineerMapatac/output/github-contribution-grid-snake-dark.svg" alt="Contribution Grid Snake" />
+    </picture>
+  </p>
 </div>
 
 ---
