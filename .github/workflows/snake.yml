@@ -2,7 +2,8 @@ name: Generate Snake
 
 on:
   schedule:
-    - cron: "0 0 * * *"
+    # Run automatically every 12 hours
+    - cron: "0 */12 * * *"
   workflow_dispatch:
   push:
     branches:
@@ -19,18 +20,17 @@ jobs:
         uses: actions/checkout@v4
 
       - name: Generate snake SVG
-        uses: EngineerMapatac/snk/svg-only@main
+        uses: Platane/snk/svg-only@v3
         with:
-          github_user_name: EngineerMapatac
+          github_user_name: ${{ github.repository_owner }}
           outputs: |
-            dist/github-contribution-grid-snake.svg?step_duration_ms=200
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&step_duration_ms=200
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
           build_dir: dist
-          keep_history: true
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
