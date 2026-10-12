@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 ### Current Projects & Engineering Tools
 * **[Karel-Goes-to-Manila](https://github.com/EngineerMapatac/karel-goes-to-manila)** — Final Capstone Project for **Stanford University's Code in Place** (selected from 60,000+ applicants). An interactive 2D grid-based arcade Snake game built natively in Python (`pygame-ce`) featuring dynamic $25\times25+$ map expansion, infinite level scaling, procedural roadblocks, and persistent score tracking. ([Verified Stanford Certificate](https://codeinplace.stanford.edu/cip6/certificate/pts0ck))
-- **Orbital Feed** — Automated posting powered by Generative AI under Javascript; niche-focused cross-posting across the digital platforms. (Private Repository — currently building the SaaS architecture for public release).
+* **Orbital Feed** — Automated posting powered by Generative AI under Javascript; niche-focused cross-posting across the digital platforms. (Private Repository — currently building the SaaS architecture for public release).
 * **[Orbital Feed](https://github.com/EngineerMapatac/orbital-feed)** - Automated posting powered by Generative AI under Javascript; niche-focused cross-posting across the digital platforms. (Private Repository — currently building the SaaS architecture for public release).
 * **[NeuroBalance-Engine](https://github.com/EngineerMapatac/NeuroBalance-Engine)** - A financial modeling system simulating and optimizing liability reduction strategies (Python, Flask). Built to handle complex resource allocation logic.
 * **[Event_Horizon_JS](https://github.com/EngineerMapatac/Event_Horizon_JS)** - A dynamic data visualization dashboard utilizing NASA APIs (JavaScript, HTML, CSS).
