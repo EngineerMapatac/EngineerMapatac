@@ -19,9 +19,9 @@ jobs:
         uses: actions/checkout@v4
 
       - name: Generate snake SVG
-        uses: Gugilla-Aakash/snk/svg-only@main
+        uses: EngineerMapatac/snk/svg-only@main
         with:
-          github_user_name: Gugilla-Aakash
+          github_user_name: EngineerMapatac
           outputs: |
             dist/github-contribution-grid-snake.svg?step_duration_ms=200
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark&step_duration_ms=200
