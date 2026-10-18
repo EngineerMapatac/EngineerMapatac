@@ -83,6 +83,8 @@ Here are some ideas to get you started:
             - An interactive probability model demonstrating inference-time compute scaling for LLMs, calculating parallel sample thresholds required to solve complex coding tasks reliably.
         * **[Medical Test Detective](https://pai.stanford.edu/pai1/portfolio/aJkZphyhk5UO1y23QSgxJhO6wvE3/medical-bayes)**
             - An interactive Bayesian probability model analyzing diagnostic test accuracy, false alarms, and predictive validity across medical screenings.
+        * **[Small Art Model](https://pai.stanford.edu/pai1/portfolio/aJkZphyhk5UO1y23QSgxJhO6wvE3/small-art-model)**
+            - Generative probabilistic model exploring AI scaling laws, micro-agent clusters, and foundation models through a cosmic lens. It features a neural network core and leverages power-law distributions to balance lightweight components with rare "Blue Giant" foundation models, all built using probabilistic modeling and generative code pipelines.
 
 *   **[Stanford University: Code in Place](https://codeinplace.stanford.edu/cip6/certificate/pts0ck)** (June 2026)
 
