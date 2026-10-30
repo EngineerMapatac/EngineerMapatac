@@ -54,6 +54,15 @@ Here are some ideas to get you started:
   </p>
 </div>
 
+<p align="center">
+  <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api?username=EngineerMapatac&show_icons=true&include_all_commits=true&count_private=true&theme=default&hide_border=true" alt="GitHub Stats" />
+  <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=EngineerMapatac&layout=compact&theme=default&hide_border=true" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img width="650" src="https://raw.githubusercontent.com/EngineerMapatac/EngineerMapatac/output/github-contribution-grid-snake.svg" alt="Contribution Grid Snake" />
+</p>
+
 ---
 
 ## What I'm currently exploring & building
