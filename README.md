@@ -36,28 +36,21 @@ Here are some ideas to get you started:
 ### GitHub Activity
 
 <div align="center">
-  <p>
-    <!-- Dark Mode Stats -->
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=EngineerMapatac&show_icons=true&theme=github_dark&hide_border=true" />
-      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=EngineerMapatac&show_icons=true&theme=default&hide_border=true" />
-      <img height="165em" src="https://github-readme-stats.vercel.app/api?username=EngineerMapatac&show_icons=true&theme=github_dark&hide_border=true" alt="John's GitHub Stats" />
-    </picture>
-    <!-- Dark Mode Top Languages -->
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=EngineerMapatac&layout=compact&theme=github_dark&hide_border=true" />
-      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=EngineerMapatac&layout=compact&theme=default&hide_border=true" />
-      <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EngineerMapatac&layout=compact&theme=github_dark&hide_border=true" alt="John's Top Languages" />
-    </picture>
-  </p>
+  <!-- GitHub Stats Card -->
+  <a href="https://github.com/EngineerMapatac">
+    <img height="165" src="https://github-readme-stats.vercel.app/api?username=EngineerMapatac&show_icons=true&include_all_commits=true&count_private=true&theme=github_dark&hide_border=true#gh-dark-mode-only" alt="GitHub Stats" />
+    <img height="165" src="https://github-readme-stats.vercel.app/api?username=EngineerMapatac&show_icons=true&include_all_commits=true&count_private=true&theme=default&hide_border=true#gh-light-mode-only" alt="GitHub Stats" />
+  </a>
+  <!-- Top Languages Card -->
+  <a href="https://github.com/EngineerMapatac">
+    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EngineerMapatac&layout=compact&theme=github_dark&hide_border=true#gh-dark-mode-only" alt="Top Languages" />
+    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EngineerMapatac&layout=compact&theme=default&hide_border=true#gh-light-mode-only" alt="Top Languages" />
+  </a>
 
-  <!-- Snake Animation (Dynamic Light/Dark Mode) -->
+  <!-- Contribution Grid Snake -->
   <p>
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/EngineerMapatac/EngineerMapatac/output/github-contribution-grid-snake-dark.svg" />
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/EngineerMapatac/EngineerMapatac/output/github-contribution-grid-snake.svg" />
-      <img width="650px" src="https://raw.githubusercontent.com/EngineerMapatac/EngineerMapatac/output/github-contribution-grid-snake-dark.svg" alt="Contribution Grid Snake" />
-    </picture>
+    <img width="650" src="https://raw.githubusercontent.com/EngineerMapatac/EngineerMapatac/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="Contribution Grid Snake" />
+    <img width="650" src="https://raw.githubusercontent.com/EngineerMapatac/EngineerMapatac/output/github-contribution-grid-snake.svg#gh-light-mode-only" alt="Contribution Grid Snake" />
   </p>
 </div>
 
