@@ -85,6 +85,8 @@ Here are some ideas to get you started:
             - An interactive Bayesian probability model analyzing diagnostic test accuracy, false alarms, and predictive validity across medical screenings.
         * **[Small Art Model](https://pai.stanford.edu/pai1/portfolio/aJkZphyhk5UO1y23QSgxJhO6wvE3/small-art-model)**
             - Generative probabilistic model exploring AI scaling laws, micro-agent clusters, and foundation models through a cosmic lens. It features a neural network core and leverages power-law distributions to balance lightweight components with rare "Blue Giant" foundation models, all built using probabilistic modeling and generative code pipelines.
+        * **[The Hidden Chamber](https://pai.stanford.edu/pai1/portfolio/aJkZphyhk5UO1y23QSgxJhO6wvE3/hidden-chamber)**
+            - An interactive probability and data science portfolio project built to demonstrate Maximum Likelihood Estimation (MLE) and muon-detection modeling through the simulated discovery of hidden pyramid chambers.
 
 *   **[Stanford University: Code in Place](https://codeinplace.stanford.edu/cip6/certificate/pts0ck)** (June 2026)
 
