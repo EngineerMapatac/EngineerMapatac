@@ -61,28 +61,71 @@ Here are some ideas to get you started:
     *   Selected from over 20,000 applicants to participate in this specialized AI/ML probability course led by Stanford faculty.
     *   **[Portfolio](https://pai.stanford.edu/pai1/portfolio/aJkZphyhk5UO1y23QSgxJhO6wvE3)**
         * **[Word Detective](https://pai.stanford.edu/pai1/portfolio/aJkZphyhk5UO1y23QSgxJhO6wvE3/ai-text)**
-            - An applied probability project analyzing lexical patterns in LLMs. Built conditional probability models to calculate likelihood ratios for words characteristic of machine-generated text versus human writing.
+            - An interactive probability and text-analysis project built as part of Stanford's **Probability for AI** coursework. This app computes conditional probabilities to analyze linguistic patterns and distinguish between AI-generated and human-written text.
+              #### How It Works
+              1. **Conditional Probability ($P(W|AI)$ vs $P(W|H)$):** 
+                 - Scans and compares word frequencies across AI responses versus human responses.
+                 - Calculates likelihood ratios to find which words are strongest indicators of machine-generated text (e.g., "super", "tiny", "imagine").
+              2. **Dataset & Corpus Processing:** 
+                 - Evaluates a dataset of paired prompts and responses across diverse everyday topics.
+                 - Computes empirical probability distributions to surface distinctive stylistic markers.
+              #### Tech Stack
+              * **Interactive Web App Simulation:** Custom probabilistic text-mining dashboard.
+              * **Core Concepts:** Conditional probability, likelihood ratios, text analysis, and pattern recognition.
         * **[Inference Time Calculator](https://pai.stanford.edu/pai1/portfolio/aJkZphyhk5UO1y23QSgxJhO6wvE3/inference-time)**
-            - An interactive probability model demonstrating inference-time compute scaling for LLMs, calculating parallel sample thresholds required to solve complex coding tasks reliably.
+            - An interactive probability and scaling project built as part of Stanford's **Probability for AI** coursework. This app models how scaling inference-time compute (running multiple parallel model copies) dramatically increases the probability of successfully fixing complex software bugs.
+              #### How It Works
+              1. **Probability of Independent Success ($P(F_i)$):** 
+                 - Evaluates the baseline success rate of a single model pass (such as DeepSeek-Coder-V2-Instruct achieving a 15.9% success rate on SWE-bench Lite).
+              2. **Complementary Probability & Failure Chains:** 
+                 - Calculates the joint probability that *all* copies fail simultaneously: $P(E^C) = (1 - P(F_i))^n$.
+                 - Derives the probability that at least one copy succeeds: $P(E) = 1 - (1 - P(F_i))^n$.
+              3. **Target Scaling & Batch Optimization:** 
+                 - Dynamically computes the minimum number of parallel model copies required to hit target confidence thresholds (e.g., 99.9% success probability). 
+              #### Tech Stack
+              * **Interactive Web App Simulation:** Custom probability calculation and scaling playground.
+              * **Core Concepts:** Independent events, complement probabilities, scaling laws, and inference-time compute optimization.
         * **[Medical Test Detective](https://pai.stanford.edu/pai1/portfolio/aJkZphyhk5UO1y23QSgxJhO6wvE3/medical-bayes)**
-            - An interactive Bayesian probability model analyzing diagnostic test accuracy, false alarms, and predictive validity across medical screenings.
+            - An interactive Bayesian probability and diagnostic tool built as part of Stanford's **Probability for AI** coursework. This app visualizes how conditional probability works in real-world medical testing, helping users understand why false alarms happen even with highly accurate tests.
+              #### How It Works
+              1. **Bayesian Inference & Conditional Probability:** 
+                 - Calculates the true probability of having a condition given a positive or negative test result using Bayes' theorem ($P(P|N^c)$ and related metrics).
+                 - Breaks down sensitivity ($P(N|P)$), false-positive rates ($P(N|P^c)$), and prior disease prevalence ($P(P)$).
+              2. **Natural Frequency Visualizations:** 
+                 - Translates abstract statistical percentages into intuitive frequencies out of 1,000 patients.
+                 - Illustrates the impact of base rate fallacies and common disease prevalences across different medical screenings.
+              3. **Dynamic Test Lookup:** 
+                 - Features pre-configured benchmarks (such as RT-PCR COVID-19 [tests](https://pai.stanford.edu/iframe-preview.html), Rapid HIV, strep, and prenatal cell-free DNA screenings).
+                 - Allows quick comparisons across different clinical contexts and demographics.
+              #### Tech Stack
+              * **Interactive Web App Simulation:** Custom probability visualization and Bayesian calculation engine.
+              * **Core Concepts:** Bayes' Theorem, Conditional Probability, Medical Diagnostics, and Base Rate Fallacy.
         * **[Small Art Model](https://pai.stanford.edu/pai1/portfolio/aJkZphyhk5UO1y23QSgxJhO6wvE3/small-art-model)**
-            - Generative probabilistic model exploring AI scaling laws, micro-agent clusters, and foundation models through a cosmic lens. It features a neural network core and leverages power-law distributions to balance lightweight components with rare "Blue Giant" foundation models, all built using probabilistic modeling and generative code pipelines.
+            - An interactive generative probabilistic art project built as part of Stanford's **Probability for AI** coursework. This app models a procedural story to paint fields of power-law distributed circles mimicking complex patterns.
+              #### How It Works
+              1. **Generative Probabilistic Story:** Defines a multi-step stochastic process for 400 circles, handling hidden latent variables ($S$, $A$, $W$, $G$, $B$) and observed data points ($R$, $C$, $P$).
+              2. **Parameter Tuning ($\theta$ weights):** 
+                 - Controls size distributions ($\theta_1$ to $\theta_3$), radius bands ($\theta_4$ to $\theta_6$), and color ink probabilities ($\theta_7$ to $\theta_9$).
+                 - Adjusts spatial variables like galactic concentration ($\theta_{11}$) and spiral arm tightness ($\theta_{10}$).
+              3. **Stochastic Rendering:** Combines size weighting, arm choice, raw radius transforms, and angular jitter to generate randomized visual outputs on demand.
+              #### Tech Stack
+              * **Interactive Web App Simulation:** Custom probability-driven art generator.
+              * **Core Concepts:** Generative models, probability distributions, latent variables, and parameter optimization.
         * **[The Hidden Chamber](https://pai.stanford.edu/pai1/portfolio/aJkZphyhk5UO1y23QSgxJhO6wvE3/hidden-chamber)**
             - An interactive probabilistic simulation and optimization project built as part of Stanford's **Probability for AI** coursework. This app models muon scattering physics to discover hidden chambers inside a pyramid without moving a single stone.
-              # How It Works
+              #### How It Works
               1. **Muon Counting & Poisson Processes:** Analyzes minute-by-minute cosmic-ray muon arrivals beneath the pyramid, treating particle counts as a Poisson random variable.
               2. **Maximum Likelihood Estimation (MLE):** 
                  - Evaluates how likely a given stone thickness ($\theta_2$) is to produce the observed muon counts.
                  - Computes log-likelihood scores to measure model fit against real archaeological scan scenarios.
               3. **Gradient Ascent Optimization:** 
                  - Uses iterative hill-climbing steps driven by score gradients to automatically adjust $\theta_2$ and pinpoint where the stone is thinner (revealing the hidden chamber).
-              # Tech Stack
+              #### Tech Stack
               * **Interactive Web App Simulation:** Custom probability visualization and optimization playground.
               * **Core Concepts:** Maximum Likelihood, Poisson Distributions, Log-Likelihood Scoring, and Gradient Ascent.
         * **[Forest or farmland?](https://pai.stanford.edu/pai1/portfolio/aJkZphyhk5UO1y23QSgxJhO6wvE3/forest-or-farmland)**
             - An interactive machine learning project built as part of Stanford's **Probability for AI** coursework. This app trains a logistic regression model from scratch using NumPy to classify satellite patches (Sentinel-2 data) into **Forest** versus **Farmland**.
-              # How It Works
+              #### How It Works
               1. **Feature Extraction:** Analyzes satellite image patches across three main channels:
                  - **Dark Area (%):** Measures canopy shading where treetops create darker regions.
                  - **Contrast (Standard Deviation):** Captures variations between fields, hedges, and paths.
@@ -93,7 +136,7 @@ Here are some ideas to get you started:
               3. **Generalization & Testing:** 
                  - Evaluated against a locked **776-patch test set** to prevent overfitting.
                  - Tested on an unseen European map containing 100 aggregated patches.
-              # Tech Stack
+              #### Tech Stack
               * **Language:** Python
               * **Libraries:** NumPy
               * **Data Source:** EuroSAT (Helber et al., 2019) with Copernicus Sentinel data.
