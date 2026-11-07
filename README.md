@@ -142,6 +142,24 @@ Here are some ideas to get you started:
               * **Language:** Python
               * **Libraries:** NumPy
               * **Data Source:** EuroSAT (Helber et al., 2019) with Copernicus Sentinel data.
+          * **[Planet Hunters](https://pai.stanford.edu/pai1/portfolio/aJkZphyhk5UO1y23QSgxJhO6wvE3/planet-hunters)**
+              - An interactive probabilistic machine learning project built as part of Stanford's **Probability for AI** coursework. This app processes real Kepler space telescope data to classify brightness dips and calculate the probability that an astronomical signal is an exoplanet.
+                #### How It Works
+                1. **Feature Extraction & Normalization:** Analyzes over 6,100 Kepler dips using key features:
+                   - **Size ($x_1$):** Estimated radius in Earth masses.
+                   - **Other Dips ($x_2$):** Count of sibling dips around the same star (planets often form families).
+                   - **V-Shaped Dip ($x_3$):** Indicator of stellar eclipses versus flat-bottomed planetary transits.
+                   - **Repeat Speed ($x_4$):** Fast recurrence under 3 days (common in close binary stars).
+                2. **Logistic Regression & Gradient Ascent:** 
+                   - Uses a custom NumPy training loop over **4,954 training dips**.
+                   - Optimizes weights ($\theta_0$ to $\theta_4$) via log-likelihood ascent to separate true exoplanets from false positives.
+                3. **Generalization & Validation:** 
+                   - Tested against a locked **1,238-dip test set** to ensure robust performance on unseen space data.
+                   - Evaluated against historical telescope validation data (Valizadegan et al., Armstrong et al.) to rank top candidate targets.
+                #### Tech Stack
+                * **Language:** Python
+                * **Libraries:** NumPy
+                * **Data Source:** NASA Kepler Mission / Exoplanet Archive
 
 *   **[Stanford University: Code in Place](https://codeinplace.stanford.edu/cip6/certificate/pts0ck)** (June 2026)
 
