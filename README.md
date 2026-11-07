@@ -61,7 +61,7 @@ Here are some ideas to get you started:
     *   Selected from over 20,000 applicants to participate in this specialized AI/ML probability course led by Stanford faculty.
     *   **[Portfolio](https://pai.stanford.edu/pai1/portfolio/aJkZphyhk5UO1y23QSgxJhO6wvE3)**
         - A collection of interactive probabilistic simulations, machine learning models, and data tools built as part of Stanford University’s **Probability for AI** coursework (October–November 2026).
-        ## Featured Projects
+        ### Featured Projects
         * **[Word Detective](https://pai.stanford.edu/pai1/portfolio/aJkZphyhk5UO1y23QSgxJhO6wvE3/ai-text)**
             - An interactive probability and text-analysis project built as part of Stanford's **Probability for AI** coursework. This app computes conditional probabilities to analyze linguistic patterns and distinguish between AI-generated and human-written text.
               #### How It Works
