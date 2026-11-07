@@ -69,26 +69,37 @@ Here are some ideas to get you started:
         * **[Small Art Model](https://pai.stanford.edu/pai1/portfolio/aJkZphyhk5UO1y23QSgxJhO6wvE3/small-art-model)**
             - Generative probabilistic model exploring AI scaling laws, micro-agent clusters, and foundation models through a cosmic lens. It features a neural network core and leverages power-law distributions to balance lightweight components with rare "Blue Giant" foundation models, all built using probabilistic modeling and generative code pipelines.
         * **[The Hidden Chamber](https://pai.stanford.edu/pai1/portfolio/aJkZphyhk5UO1y23QSgxJhO6wvE3/hidden-chamber)**
-            - An interactive probability and data science portfolio project built to demonstrate Maximum Likelihood Estimation (MLE) and muon-detection modeling through the simulated discovery of hidden pyramid chambers.
+            - An interactive probabilistic simulation and optimization project built as part of Stanford's **Probability for AI** coursework. This app models muon scattering physics to discover hidden chambers inside a pyramid without moving a single stone.
+              ## How It Works
+              1. **Muon Counting & Poisson Processes:** Analyzes minute-by-minute cosmic-ray muon arrivals beneath the pyramid, treating particle counts as a Poisson random variable.
+              2. **Maximum Likelihood Estimation (MLE):** 
+                 - Evaluates how likely a given stone thickness ($\theta_2$) is to produce the observed muon counts.
+                 - Computes log-likelihood scores to measure model fit against real archaeological scan scenarios.
+              3. **Gradient Ascent Optimization:** 
+                 - Uses iterative hill-climbing steps driven by score gradients to automatically adjust $\theta_2$ and pinpoint where the stone is thinner (revealing the hidden chamber).
+              
+              ## Tech Stack
+              * **Interactive Web App Simulation:** Custom probability visualization and optimization playground.
+              * **Core Concepts:** Maximum Likelihood, Poisson Distributions, Log-Likelihood Scoring, and Gradient Ascent.
         * **[Forest or farmland?](https://pai.stanford.edu/pai1/portfolio/aJkZphyhk5UO1y23QSgxJhO6wvE3/forest-or-farmland)**
             - An interactive machine learning project built as part of Stanford's **Probability for AI** coursework. This app trains a logistic regression model from scratch using NumPy to classify satellite patches (Sentinel-2 data) into **Forest** versus **Farmland**.
             
-            ## How It Works
-            1. **Feature Extraction:** Analyzes satellite image patches across three main channels:
-               - **Dark Area (%):** Measures canopy shading where treetops create darker regions.
-               - **Contrast (Standard Deviation):** Captures variations between fields, hedges, and paths.
-               - **Greenness:** Measures the spectral difference between green and red light.
-            2. **Logistic Regression & Gradient Ascent:** 
-               - Uses a custom NumPy training loop over **3,104 training patches**.
-               - Optimizes weights ($\theta_0$ to $\theta_3$) using log-likelihood and gradient ascent.
-            3. **Generalization & Testing:** 
-               - Evaluated against a locked **776-patch test set** to prevent overfitting.
-               - Tested on an unseen European map containing 100 aggregated patches.
+              ## How It Works
+              1. **Feature Extraction:** Analyzes satellite image patches across three main channels:
+                 - **Dark Area (%):** Measures canopy shading where treetops create darker regions.
+                 - **Contrast (Standard Deviation):** Captures variations between fields, hedges, and paths.
+                 - **Greenness:** Measures the spectral difference between green and red light.
+              2. **Logistic Regression & Gradient Ascent:** 
+                 - Uses a custom NumPy training loop over **3,104 training patches**.
+                 - Optimizes weights ($\theta_0$ to $\theta_3$) using log-likelihood and gradient ascent.
+              3. **Generalization & Testing:** 
+                 - Evaluated against a locked **776-patch test set** to prevent overfitting.
+                 - Tested on an unseen European map containing 100 aggregated patches.
 
-## Tech Stack
-* **Language:** Python
-* **Libraries:** NumPy
-* **Data Source:** EuroSAT (Helber et al., 2019) with Copernicus Sentinel data.
+              ## Tech Stack
+              * **Language:** Python
+              * **Libraries:** NumPy
+              * **Data Source:** EuroSAT (Helber et al., 2019) with Copernicus Sentinel data.
 
 *   **[Stanford University: Code in Place](https://codeinplace.stanford.edu/cip6/certificate/pts0ck)** (June 2026)
 
