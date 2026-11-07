@@ -142,7 +142,7 @@ Here are some ideas to get you started:
               * **Language:** Python
               * **Libraries:** NumPy
               * **Data Source:** EuroSAT (Helber et al., 2019) with Copernicus Sentinel data.
-          * **[Planet Hunters](https://pai.stanford.edu/pai1/portfolio/aJkZphyhk5UO1y23QSgxJhO6wvE3/planet-hunters)**
+        * **[Planet Hunters](https://pai.stanford.edu/pai1/portfolio/aJkZphyhk5UO1y23QSgxJhO6wvE3/planet-hunters)**
               - An interactive probabilistic machine learning project built as part of Stanford's **Probability for AI** coursework. This app processes real Kepler space telescope data to classify brightness dips and calculate the probability that an astronomical signal is an exoplanet.
                 #### How It Works
                 1. **Feature Extraction & Normalization:** Analyzes over 6,100 Kepler dips using key features:
