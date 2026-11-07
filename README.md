@@ -95,7 +95,7 @@ Here are some ideas to get you started:
                  - Translates abstract statistical percentages into intuitive frequencies out of 1,000 patients.
                  - Illustrates the impact of base rate fallacies and common disease prevalences across different medical screenings.
               3. **Dynamic Test Lookup:** 
-                 - Features pre-configured benchmarks (such as RT-PCR COVID-19 [tests](https://pai.stanford.edu/iframe-preview.html), Rapid HIV, strep, and prenatal cell-free DNA screenings).
+                 - Features pre-configured benchmarks (such as RT-PCR COVID-19 tests, Rapid HIV, strep, and prenatal cell-free DNA screenings).
                  - Allows quick comparisons across different clinical contexts and demographics.
               #### Tech Stack
               * **Interactive Web App Simulation:** Custom probability visualization and Bayesian calculation engine.
