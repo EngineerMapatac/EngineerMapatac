@@ -74,6 +74,7 @@ Here are some ideas to get you started:
               #### Tech Stack
               * **Interactive Web App Simulation:** Custom probabilistic text-mining dashboard.
               * **Core Concepts:** Conditional probability, likelihood ratios, text analysis, and pattern recognition.
+                
         * **[Inference Time Calculator](https://pai.stanford.edu/pai1/portfolio/aJkZphyhk5UO1y23QSgxJhO6wvE3/inference-time)**
             - An interactive probability and scaling project built as part of Stanford's **Probability for AI** coursework. This app models how scaling inference-time compute (running multiple parallel model copies) dramatically increases the probability of successfully fixing complex software bugs.
               #### How It Works
@@ -87,6 +88,7 @@ Here are some ideas to get you started:
               #### Tech Stack
               * **Interactive Web App Simulation:** Custom probability calculation and scaling playground.
               * **Core Concepts:** Independent events, complement probabilities, scaling laws, and inference-time compute optimization.
+                
         * **[Medical Test Detective](https://pai.stanford.edu/pai1/portfolio/aJkZphyhk5UO1y23QSgxJhO6wvE3/medical-bayes)**
             - An interactive Bayesian probability and diagnostic tool built as part of Stanford's **Probability for AI** coursework. This app visualizes how conditional probability works in real-world medical testing, helping users understand why false alarms happen even with highly accurate tests.
               #### How It Works
@@ -102,6 +104,7 @@ Here are some ideas to get you started:
               #### Tech Stack
               * **Interactive Web App Simulation:** Custom probability visualization and Bayesian calculation engine.
               * **Core Concepts:** Bayes' Theorem, Conditional Probability, Medical Diagnostics, and Base Rate Fallacy.
+                
         * **[Small Art Model](https://pai.stanford.edu/pai1/portfolio/aJkZphyhk5UO1y23QSgxJhO6wvE3/small-art-model)**
             - An interactive generative probabilistic art project built as part of Stanford's **Probability for AI** coursework. This app models a procedural story to paint fields of power-law distributed circles mimicking complex patterns.
               #### How It Works
@@ -113,6 +116,7 @@ Here are some ideas to get you started:
               #### Tech Stack
               * **Interactive Web App Simulation:** Custom probability-driven art generator.
               * **Core Concepts:** Generative models, probability distributions, latent variables, and parameter optimization.
+                
         * **[The Hidden Chamber](https://pai.stanford.edu/pai1/portfolio/aJkZphyhk5UO1y23QSgxJhO6wvE3/hidden-chamber)**
             - An interactive probabilistic simulation and optimization project built as part of Stanford's **Probability for AI** coursework. This app models muon scattering physics to discover hidden chambers inside a pyramid without moving a single stone.
               #### How It Works
@@ -125,6 +129,7 @@ Here are some ideas to get you started:
               #### Tech Stack
               * **Interactive Web App Simulation:** Custom probability visualization and optimization playground.
               * **Core Concepts:** Maximum Likelihood, Poisson Distributions, Log-Likelihood Scoring, and Gradient Ascent.
+                
         * **[Forest or farmland?](https://pai.stanford.edu/pai1/portfolio/aJkZphyhk5UO1y23QSgxJhO6wvE3/forest-or-farmland)**
             - An interactive machine learning project built as part of Stanford's **Probability for AI** coursework. This app trains a logistic regression model from scratch using NumPy to classify satellite patches (Sentinel-2 data) into **Forest** versus **Farmland**.
               #### How It Works
@@ -142,24 +147,41 @@ Here are some ideas to get you started:
               * **Language:** Python
               * **Libraries:** NumPy
               * **Data Source:** EuroSAT (Helber et al., 2019) with Copernicus Sentinel data.
-        * **[Planet Hunters](https://pai.stanford.edu/pai1/portfolio/aJkZphyhk5UO1y23QSgxJhO6wvE3/planet-hunters)**
-              - An interactive probabilistic machine learning project built as part of Stanford's **Probability for AI** coursework. This app processes real Kepler space telescope data to classify brightness dips and calculate the probability that an astronomical signal is an exoplanet.
-                #### How It Works
-                1. **Feature Extraction & Normalization:** Analyzes over 6,100 Kepler dips using key features:
-                   - **Size ($x_1$):** Estimated radius in Earth masses.
-                   - **Other Dips ($x_2$):** Count of sibling dips around the same star (planets often form families).
-                   - **V-Shaped Dip ($x_3$):** Indicator of stellar eclipses versus flat-bottomed planetary transits.
-                   - **Repeat Speed ($x_4$):** Fast recurrence under 3 days (common in close binary stars).
-                2. **Logistic Regression & Gradient Ascent:** 
-                   - Uses a custom NumPy training loop over **4,954 training dips**.
-                   - Optimizes weights ($\theta_0$ to $\theta_4$) via log-likelihood ascent to separate true exoplanets from false positives.
-                3. **Generalization & Validation:** 
-                   - Tested against a locked **1,238-dip test set** to ensure robust performance on unseen space data.
-                   - Evaluated against historical telescope validation data (Valizadegan et al., Armstrong et al.) to rank top candidate targets.
-                #### Tech Stack
-                * **Language:** Python
-                * **Libraries:** NumPy
-                * **Data Source:** NASA Kepler Mission / Exoplanet Archive
+                
+        * **[Planet hunters](https://pai.stanford.edu/pai1/portfolio/aJkZphyhk5UO1y23QSgxJhO6wvE3/planet-hunters)**
+            - An interactive machine learning project built as part of Stanford's **Probability for AI** coursework. This app trains a logistic regression model from scratch using NumPy to classify Kepler space telescope data into exoplanets versus stellar eclipses and noise.
+              #### How It Works
+              1. **Feature Extraction:** Analyzes stellar brightness dips across four key indicators:
+                 - **Size:** Estimated radius in Earth units.
+                 - **Other Dips:** Count of additional dips detected on the same star.
+                 - **V-Shaped Dip:** Indicator of eclipsing binary stars versus flat-bottomed planetary transits.
+                 - **Short-Period Repeats:** Flags dips recurring in under 3 days.
+              2. **Logistic Regression & Gradient Ascent:** 
+                 - Uses a custom NumPy training loop over **4,954 training dips** (tested against a locked **1,238-dip test set**).
+                 - Optimizes weights ($\theta_0$ to $\theta_4$) using log-likelihood and gradient ascent over 256 steps.
+              3. **Generalization & Testing:** 
+                 - Evaluated against a locked test set, achieving **84% accuracy** (generalizing from 83% on training data).
+                 - Applied to filter unknown Kepler Objects of Interest (KOIs) to maximize valid exoplanet discoveries per telescope night.
+              #### Tech Stack
+              * **Language:** Python
+              * **Libraries:** NumPy
+              * **Data Source:** NASA Kepler Mission / Valizadegan et al. validation studies
+
+        * **[Rewrite GPT-2](https://pai.stanford.edu/pai1/portfolio/aJkZphyhk5UO1y23QSgxJhO6wvE3/rewrite-gpt2)**
+            - An interactive machine learning project built as part of Stanford's **Probability for AI** coursework. This app looks inside GPT-2 to find where it stores specific factual associations and runs gradient ascent on word embeddings to rewrite how the model predicts facts.
+              #### How It Works
+              1. **Internal Probing & Ablation:** 
+                 - Analyzes 124,439,808 parameters across word embeddings, neurons, and attention mechanisms.
+                 - Uses ablation experiments (switching parts off) to locate where facts like the Louvre's location are stored.
+              2. **Rewriting via Gradient Ascent:** 
+                 - Targets specific rows in the word-embedding table (such as `Lou` and `vre`) using a custom training set of 4 sentences.
+                 - Updates parameters to make GPT-2 predict alternative outcomes (e.g., that the Louvre is in Cairo) while preserving overall language coherence.
+              3. **Generalization & Testing:** 
+                 - Validates performance across new sentences, true facts, and out-of-scope prompts (such as verifying unrelated entities like the Eiffel Tower remain unchanged).
+              #### Tech Stack
+              * **Language:** Python
+              * **Libraries:** PyTorch / Hugging Face Transformers (`openai-community/gpt2`)
+              * **References:** Meng, Bau, Andonian, and Belinkov (2022), *"Locating and Editing Factual Associations in GPT"*
 
 *   **[Stanford University: Code in Place](https://codeinplace.stanford.edu/cip6/certificate/pts0ck)** (June 2026)
 
